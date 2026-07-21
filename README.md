@@ -1,8 +1,8 @@
 # Visualização de Dados - Materiais das Aulas
 
-## [Aula 01 - Visualização de Dados](https://github.com/gustavowillam/DML/blob/main/slides/01-Visualizacao%20de%20Dados.pdf)
+## [Aula 01 - Visualização de Dados](https://github.com/mramgti/DML/blob/main/slides/01-Visualizacao%20de%20Dados.pdf)
 
-## [Aula 02 - Visualização de Dados](https://github.com/gustavowillam/DML/blob/main/slides/02-Visualizacao%20de%20Dados.pdf)
+## [Aula 02 - Visualização de Dados](https://github.com/mramgti/DML/blob/main/slides/02-Visualizacao%20de%20Dados.pdf)
 
 * ### [Colab - Charts in Colaboratory](https://colab.research.google.com/notebooks/charts.ipynb)  
 
