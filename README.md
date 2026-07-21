@@ -1,5 +1,7 @@
 # Visualização de Dados - Materiais das Aulas
 
+## Produzido pelo Professor Gustavo Willam Pereira
+
 ## [Aula 01 - Visualização de Dados](https://github.com/mramgti/VIZ/blob/main/slides/01-Visualizacao%20de%20Dados.pdf)
 
 ## [Aula 02 - Visualização de Dados](https://github.com/mramgti/VIZ/blob/main/slides/02-Visualizacao%20de%20Dados.pdf)
