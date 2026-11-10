@@ -47,6 +47,8 @@
 
 ## - Aula 03 - Deploy de Aplicações Python
 
-* ### [3.2 - Desenvolvimento de uma Modelo de ML para predição de Aluguel de Imóveis utilizando SQLite, Apache Airflow - Deploy com Streamlit e GitHub](https://drive.google.com/drive/folders/1Cb92pn3kCZLtnpvcDZU1_B4HWns3_JCp?usp=sharing)
+* ### [3.1 - Desenvolvimento de um app Modelo de ML para predição de tripulantes transportados do Spaceship Titanic utilizando Colab, NGROK e Streamlit](https://drive.google.com/drive/folders/1uFHEpczJQTfdNai98PXpvlqbjSWX-Tee?usp=sharing)
+
+* ### [3.2 - Desenvolvimento de um Modelo de ML para predição de Aluguel de Imóveis utilizando SQLite, Apache Airflow - Deploy com Streamlit e GitHub](https://drive.google.com/drive/folders/1Cb92pn3kCZLtnpvcDZU1_B4HWns3_JCp?usp=sharing)
 
 
